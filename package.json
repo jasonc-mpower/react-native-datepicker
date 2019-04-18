@@ -65,7 +65,7 @@
     }
   },
   "dependencies": {
-    "moment": "2.x.x"
+    "moment": "2.19.3"
   },
   "description": "react native datePicker component for both Android and IOS, useing DatePikcerAndroid, TimePickerAndroid and DatePickerIOS",
   "devDependencies": {
